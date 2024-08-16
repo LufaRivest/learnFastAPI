@@ -1,3 +1,3 @@
 from fastapi import FastAPI
 
-print('1')
+print('2')
